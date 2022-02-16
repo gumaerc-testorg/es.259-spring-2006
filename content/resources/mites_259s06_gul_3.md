@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding ICT in africa.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-259-information-and-communication-technology-in-africa-spring-2006/e625d4337c47bb39c7e96efa37f1a63f_MITES_259S06_gul_3.pdf
+file: /media/courses/es-259-information-and-communication-technology-in-africa-spring-2006/e625d4337c47bb39c7e96efa37f1a63f_MITES_259S06_gul_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: ICT in Africa
 uid: e625d433-7c47-bb39-c7e9-6efa37f1a63f

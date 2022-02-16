@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding proposal
   for ICT idea.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-259-information-and-communication-technology-in-africa-spring-2006/8bdd350f30a28bc06b2cead13ca0d95d_MITES_259S06_gul_2.pdf
+file: /media/courses/es-259-information-and-communication-technology-in-africa-spring-2006/8bdd350f30a28bc06b2cead13ca0d95d_MITES_259S06_gul_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Proposal for ICT Idea
 uid: 8bdd350f-30a2-8bc0-6b2c-ead13ca0d95d
