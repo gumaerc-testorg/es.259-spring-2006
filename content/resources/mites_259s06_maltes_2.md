@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: IT in Africa
 uid: adebdf22-b5c1-3a8c-ed11-140144d974ff

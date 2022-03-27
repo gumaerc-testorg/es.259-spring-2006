@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: Women and ICT in Zambia
 uid: fd8c6287-799d-e556-91c0-ea72599e6c21

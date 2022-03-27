@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: Technology Initiatives to Aid Agricultural Productivity in Zambia
 uid: ca240984-b0ad-cc97-baf3-b45e8c526edf

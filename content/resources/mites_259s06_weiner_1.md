@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: Vodacom Community Services
 uid: 9f63b177-2744-3015-c305-e5d6dc479c97

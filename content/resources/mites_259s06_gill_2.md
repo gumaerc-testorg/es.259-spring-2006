@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: 'Assignment Two: A Partnership between MIT and Computer Aid International'
 uid: 553c874a-78c8-fcee-73e5-101ef14855ae

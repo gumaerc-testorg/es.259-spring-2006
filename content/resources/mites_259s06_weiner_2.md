@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: Microsoft Word - weiner_2.doc
 uid: 054bc7cc-6db2-263f-b5ab-09d7b3ba989a

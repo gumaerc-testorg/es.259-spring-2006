@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: Grameenphone and Grameen Telecom
 uid: 47c85b90-3f41-c8c8-94e4-f01c45a188df

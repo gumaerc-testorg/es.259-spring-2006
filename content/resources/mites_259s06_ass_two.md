@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: 'Assignment Two: Idea'
 uid: e2d90bfb-328a-7532-d4e7-b5cb05602b52

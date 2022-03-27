@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: Improving Computer Literacy Through Training Programs
 uid: 6abf3e84-418b-e97d-a6f2-2dff2459de09

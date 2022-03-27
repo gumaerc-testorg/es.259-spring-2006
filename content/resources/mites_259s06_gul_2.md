@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86256561-adc4-288f-9670-67695450ea28
 resourcetype: Document
 title: Proposal for ICT Idea
 uid: 8bdd350f-30a2-8bc0-6b2c-ead13ca0d95d
