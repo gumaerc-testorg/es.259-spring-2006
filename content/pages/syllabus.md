@@ -1,45 +1,42 @@
 ---
 content_type: page
+description: This section contains course information, it's background, seminar's
+  overview and details, attendance policy and grading criteria.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 199cda62-5c96-2416-f905-ee27fa1cd8f4
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 1 session / week, 2 hours / session
 
-Format
-------
+## Format
 
 This course, as part of the [Experimental Study Group](https://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student Raja Bobbili (B.S. 07 Computer Science and Electrical Engineering, Economics) taught this seminar in cooperation with Prof. Shigeru Miyagawa of the Foreign Languages and Literatures Department. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
-Background and Motivation
--------------------------
+## Background and Motivation
 
 Information and Communication technology has changed the world in ways that no other piece of innovation has in the past century. The countries of East Asia are booming economies, controlling the technological landscape of the world. Even smaller nations such as Vietnam and Thailand are receiving huge benefits from Information Technology. But Africa has been left out. Except South Africa, almost 32 countries in Africa don't even have access to the vital Fiber Optic.
 
 Information and Communication Technology in Africa has been the recent focus of much international development. While HIV/AIDS and poverty are still popular areas in international aid, improvement in technology is picking up at a tremendous pace. But development can not be restricted to the United Nations and large NGOs – the potential for impact by MIT students, with their faculty support, is enormous and beyond what one can imagine. The seminar will merely scratch this potential by attempting to explore into ways in which MIT students can make an impact on the Information and Communication Technology landscape of Africa.
 
-Seminar Overview
-----------------
+## Seminar Overview
 
 This seminar will explore into two major themes relating to Information and Community Technology: national policy and project implementation.
 
-### Theme I
+*Theme I*
 
 The students in this course will seek to understand the issues surrounding designing and instituting policy on Information and Communication Technology in Sub-Saharan African countries. What do governments consider? What are the donor's expectations? Students also explore into the complex issues involved in implementing such a policy – what are the draw backs, what is the long term sustainability? They will follow an interesting path of exploration and discovery, through both case-studies and live speaker presentations, that will help them understand not only issues surrounding Information Technology but also cultural and social factors that come into play when implementing a new technology.
 
-### Theme II
+*Theme II*
 
 The second important aspect of the seminar will be the project implementation. This alternative method of learning will focus on hands-on projects that students will pursue through 2/3rd of the semester, in which they choose a particular issue and a region of their interest, and initiate a development project in that area. Past examples of these projects could be teaching programming to a group of students in Kenya, or implementing OpenCourseWare in African universities, initiating iLabs in Zambia. A series of guest speakers will encourage students to pursue projects, and guide them towards appropriate funding sources. Students will also be taught effective proposal-writing techniques.
 
-Seminar in Detail
------------------
+## Seminar in Detail
 
-### Theme I
+*Theme I*
 
 Theme I is for students who would like to understand the theoretical aspects of Information and Communication Technology in Africa. This could also be specially relevant to those students that have commitments for the majority of the summer, disabling them to pursue hands-on projects started during the semester.
 
@@ -51,7 +48,7 @@ The students in SP.259 will have the unique opportunity of being part of this gr
 
 Students who invest their SP.259 efforts into Theme I will receive a certificate of recognition from the Ministry of Science and Technology in Zambia, and the Minster of Communications and Transport.
 
-### Theme II
+*Theme II*
 
 Theme II will be particularly useful to students who would like to conduct a hands-on ICT-related project in Africa. Over the course of the semester, students will be exposed to different ICT-projects, both within MIT and outside. Guest speakers will be invited and live presentations will expose them to many different types of projects. Student speakers will lead discussions on acquiring funding and securing material and advisory support. Leaders from ICT projects such as iLabs and OCW have been invited.
 
@@ -59,64 +56,32 @@ The students following Theme II will have the freedom to select their project, r
 
 Theme II students will be expected to put in more work outside of class, since they will need to write proposals, acquire funding and consult faculty for project support. Therefore, the students that choose this track should be motivated and have specific expertise that they would like to take onto the field.
 
-Attendance Policy
------------------
+## Attendance Policy
 
 Since this a seminar-style class, attendance is very important. The seminar is going to be highly discussion-based, so participation is even more important!
 
 Maximum number of unexcused absences: 2
 
-Grading
--------
+## Grading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Activities
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 percentages
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 In-class Participation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Presentation 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 15%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Presentation 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 15%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final Project
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 50%
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
