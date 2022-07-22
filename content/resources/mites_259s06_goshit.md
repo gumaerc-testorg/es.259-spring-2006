@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Nigeria's Need for ICT
 uid: 7679f430-21c9-3ce1-a4e3-ba882545855e
 ---
 This is a resource file that contains information regarding nigeria's need for ICT.
-

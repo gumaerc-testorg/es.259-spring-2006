@@ -5,6 +5,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Policy Document
 uid: c89727b7-554a-3487-ac28-55e79223884c
 ---
 This is a resource file that contains information regarding policy document.
-

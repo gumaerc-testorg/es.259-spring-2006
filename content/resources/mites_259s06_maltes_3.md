@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Women and ICT in Zambia
 uid: fd8c6287-799d-e556-91c0-ea72599e6c21
 ---
 This is a resource file that contains information regarding women and ICT in zambia.
-

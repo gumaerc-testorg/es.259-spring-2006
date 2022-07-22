@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment One: Case-study Presentations'
 uid: c3705d4d-6133-5969-df21-d242292f6da7
 ---
 This is a resource file that contains information regarding assignment one.
-

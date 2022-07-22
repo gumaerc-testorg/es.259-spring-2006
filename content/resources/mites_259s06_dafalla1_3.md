@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Technology Initiatives to Aid Agricultural Productivity in Zambia
 uid: ca240984-b0ad-cc97-baf3-b45e8c526edf
 ---
 This is a resource file that contains information regarding technology initiatives to aid agricultural productivity in zambia.
-

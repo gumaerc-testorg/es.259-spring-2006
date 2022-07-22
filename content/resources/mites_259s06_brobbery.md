@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Privatization for Development
 uid: f0a9e281-4d54-9757-661c-ee32932b5035
 ---
 This is a resource file that contains information regarding privatization for development.
-

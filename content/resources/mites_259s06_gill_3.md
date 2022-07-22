@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Policy for an Increase in Internet Usage in Zambia
 uid: b0b28479-66f1-c547-c0b3-d36b5cbad8a5
 ---
 This is a resource file that contains information regarding policy for an increase in internet usage in zambia.
-

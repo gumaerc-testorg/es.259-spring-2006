@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Assignment Two: A Partnership between MIT and Computer Aid International
 uid: 553c874a-78c8-fcee-73e5-101ef14855ae
 ---
 This is a resource file that contains information regarding assignment 2.
-

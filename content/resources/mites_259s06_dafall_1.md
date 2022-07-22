@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Shree Kamdhenu Electronics Private Ltd.
 uid: 84ad6f5f-195e-441c-6592-1cc18142bbad
 ---
 This is a resource file that contains information regarding shree kamdhenu electronics private ltd.
-

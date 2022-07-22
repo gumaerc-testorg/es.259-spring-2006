@@ -5,6 +5,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ICT in Africa
 uid: e625d433-7c47-bb39-c7e9-6efa37f1a63f
 ---
 This is a resource file that contains information regarding ICT in africa.
-

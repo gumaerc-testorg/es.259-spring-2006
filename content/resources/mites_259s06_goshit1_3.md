@@ -6,6 +6,7 @@ file: /courses/es-259-information-and-communication-technology-in-africa-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Technology and Policy in Africa
 uid: 7545b1d0-134c-b8b7-c998-bb1e2f322126
 ---
 This is a resource file that contains information regarding technology and policy in africa.
-
