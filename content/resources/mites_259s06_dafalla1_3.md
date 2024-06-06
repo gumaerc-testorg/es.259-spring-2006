@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding technology
   initiatives to aid agricultural productivity in zambia.
 file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/ca240984b0adcc97baf3b45e8c526edf_MITES_259S06_dafalla1_3.pdf
+file_size: 570625
 file_type: application/pdf
 learning_resource_types:
 - Projects

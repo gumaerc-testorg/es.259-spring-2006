@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding integrating
   ICT in zambian high schools.
 file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/0940a941bc49e0cdc040ecb5d881b120_MITES_259S06_Befekadu.pdf
+file_size: 603116
 file_type: application/pdf
 learning_resource_types:
 - Projects
