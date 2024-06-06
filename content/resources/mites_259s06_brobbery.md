@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding privatization
   for development.
 file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/f0a9e2814d549757661cee32932b5035_MITES_259S06_Brobbery.pdf
+file_size: 637713
 file_type: application/pdf
 learning_resource_types:
 - Projects
