@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding assignment
   2.
-file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/553c874a78c8fcee73e5101ef14855ae_MITES_259S06_gill_2.pdf
+file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/553c874a78c8fcee73e5101ef14855ae_MITES_259S06_gill_2.pdf
 file_size: 594739
 file_type: application/pdf
 learning_resource_types:
