@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding proposal
   for ICT idea.
-file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/8bdd350f30a28bc06b2cead13ca0d95d_MITES_259S06_gul_2.pdf
+file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/8bdd350f30a28bc06b2cead13ca0d95d_MITES_259S06_gul_2.pdf
 file_size: 672288
 file_type: application/pdf
 learning_resource_types:
