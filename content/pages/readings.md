@@ -16,7 +16,7 @@ READINGS
 1
 {{< tdclose >}}{{< tdopen >}}
 
-[ICT Survey for Zambia](http://www.eldis.org/go/about-eldis&id=15372&type=Document)
+[ICT Survey for Zambia](https://www.zicta.zm/ict-statistics/report)
 
 Ngah, Zainab Awang, Ang Tan Fong, and Abrizah Abdullah. "E-Journal Publishing in Malaysia: from single journal system to publishing through a host." *Information Development* 21, no. 4, 319 (February 2005) 53 - 65. DOI: 10.1177/0266666905060927. 2005 SAGE Publications.
 
@@ -26,7 +26,7 @@ Ngah, Zainab Awang, Ang Tan Fong, and Abrizah Abdullah. "E-Journal Publishing in
 
 Case Studies, Executive Summary (not available to OCW users)
 
-[Tips for Oral Presentation by Staff of 21G.034 (PDF)](/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_tipsfororalp)
+[Tips for Oral Presentation by Staff of 21G.034 (PDF)](https://ocw-studio.odl.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_tipsfororalp)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -44,7 +44,7 @@ Adeyemi, A study on the use of Information Systems to prevent HIV/AIDS in Lagos
 6
 {{< tdclose >}}{{< tdopen >}}
 
-[Grading Rubric - Written Assignments by Course Staff for 21G.034 (PDF)](/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_rubricforwri)
+[Grading Rubric - Written Assignments by Course Staff for 21G.034 (PDF)](https://ocw-studio.odl.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_rubricforwri)
 
 Grameen Bank: Taking Capitalism to the poor ([PDF](https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/848/Grameen_Bank_v04.pdf))
 
