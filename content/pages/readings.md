@@ -26,7 +26,7 @@ Ngah, Zainab Awang, Ang Tan Fong, and Abrizah Abdullah. "E-Journal Publishing in
 
 Case Studies, Executive Summary (not available to OCW users)
 
-[Tips for Oral Presentation by Staff of 21G.034 (PDF)](https://ocw-studio.odl.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_tipsfororalp)
+[Tips for Oral Presentation by Staff of 21G.034 (PDF)](https://ocw.mit.edu/courses/21g-034-media-education-and-the-marketplace-fall-2005/resources/mit21g_034f05_tipsfororalp/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
