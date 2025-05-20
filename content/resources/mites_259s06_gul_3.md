@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding ICT in africa.
-file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/e625d4337c47bb39c7e96efa37f1a63f_MITES_259S06_gul_3.pdf
+file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/e625d4337c47bb39c7e96efa37f1a63f_MITES_259S06_gul_3.pdf
 file_size: 720065
 file_type: application/pdf
 learning_resource_types:
