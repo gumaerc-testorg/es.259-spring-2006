@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/054bc7cc6db2263fb5ab09d7b3ba989a_MITES_259S06_weiner_2.pdf
+file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/054bc7cc6db2263fb5ab09d7b3ba989a_MITES_259S06_weiner_2.pdf
 file_size: 599653
 file_type: application/pdf
 learning_resource_types:

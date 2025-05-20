@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding policy document.
-file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/c89727b7554a3487ac2855e79223884c_MITES_259S06_policy.pdf
+file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/c89727b7554a3487ac2855e79223884c_MITES_259S06_policy.pdf
 file_size: 121765
 file_type: application/pdf
 learning_resource_types:
