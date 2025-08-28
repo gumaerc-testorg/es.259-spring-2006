@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding policy for
   the introduction of the $100 laptop into schools in zambia.
-file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/0958d93c8f63874bcd8f0ead27206628_MITES_259S06_scott_3.pdf
+file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/0958d93c8f63874bcd8f0ead27206628_MITES_259S06_scott_3.pdf
 file_size: 829880
 file_type: application/pdf
 learning_resource_types:
