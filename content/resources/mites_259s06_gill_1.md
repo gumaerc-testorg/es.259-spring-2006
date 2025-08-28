@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding grameenphone
   and grameen telecom.
-file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/47c85b903f41c8c894e4f01c45a188df_MITES_259S06_gill_1.pdf
+file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/47c85b903f41c8c894e4f01c45a188df_MITES_259S06_gill_1.pdf
 file_size: 610707
 file_type: application/pdf
 learning_resource_types:
