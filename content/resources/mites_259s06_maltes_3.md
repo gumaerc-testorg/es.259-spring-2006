@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding women and
   ICT in zambia.
-file: /courses/es-259-information-and-communication-technology-in-africa-spring-2006/fd8c6287799de55691c0ea72599e6c21_MITES_259S06_maltes_3.pdf
+file: /ol-ocw-studio-app/courses/es-259-information-and-communication-technology-in-africa-spring-2006/fd8c6287799de55691c0ea72599e6c21_MITES_259S06_maltes_3.pdf
 file_size: 605005
 file_type: application/pdf
 learning_resource_types:
