@@ -14,7 +14,7 @@ Lectures: 1 session / week, 2 hours / session
 
 ## Format
 
-This course, as part of the {{% resource_link "cfe66037-d885-4c28-81f1-b698f9fcc6d3" "Experimental Study Group" %}} Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student Raja Bobbili (B.S. 07 Computer Science and Electrical Engineering, Economics) taught this seminar in cooperation with Prof. Shigeru Miyagawa of the Foreign Languages and Literatures Department. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+This course, as part of the [Experimental Study Group](https://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student Raja Bobbili (B.S. 07 Computer Science and Electrical Engineering, Economics) taught this seminar in cooperation with Prof. Shigeru Miyagawa of the Foreign Languages and Literatures Department. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 ## Background and Motivation
 
